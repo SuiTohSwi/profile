@@ -1,5 +1,7 @@
 body{
   font-family:"游ゴシック";
+  background-image:url("");
+  background-size:cover;
 }
 
 h1{
