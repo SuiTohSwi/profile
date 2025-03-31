@@ -1,15 +1,23 @@
 h1{
-  color:teal;
+  color:indigo;
 }
 
 h3{
-  color:midnightblue; 
+  color:slateblue; 
 }
 
 p{
-  color:darkslategray;
+  color:slategray;
+}
+
+ul{
+  color:slategray;
+}
+
+li{
+  color:slategray;
 }
 
 a{
-  color:deepskyblue;
+  color:mediumvioletred;
 }
